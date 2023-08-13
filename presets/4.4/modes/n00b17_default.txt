@@ -12,3 +12,15 @@ aux 1 2 2 1700 2100 0 0
 aux 2 13 5 1700 2100 0 0
 aux 3 28 2 1300 2100 0 0
 aux 4 36 5 1700 2100 0 0
+
+
+# feature
+feature -AIRMODE
+feature MOTOR_STOP
+feature SOFTSERIAL
+feature TELEMETRY
+feature OSD
+
+
+# beacon
+beacon RX_SET
