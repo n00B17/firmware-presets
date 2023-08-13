@@ -1,0 +1,14 @@
+#$ TITLE: Default 4.4 Modes and Adjustment settings
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: n00b17
+#$ DESCRIPTION: my defaults
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 2 2 1700 2100 0 0
+aux 2 13 5 1700 2100 0 0
+aux 3 28 2 1300 2100 0 0
+aux 4 36 5 1700 2100 0 0
